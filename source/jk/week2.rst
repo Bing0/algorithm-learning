@@ -38,7 +38,7 @@ Examples
 Homework
 ******************************************************************
 
-.. include:: /problems/146.LRU Cachey/problem.rst
+.. include:: /problems/146.LRU Cache/problem.rst
 
 .. include:: /problems/811.Subdomain Visit Count/problem.rst
 
