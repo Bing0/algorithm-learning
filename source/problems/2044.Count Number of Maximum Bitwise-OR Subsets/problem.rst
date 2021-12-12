@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`2044.Count Number of Maximum Bitwise-OR Subsets <https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/>`_ (Medium)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/2044.Count Number of Maximum Bitwise-OR Subsets/solution.py

@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`1585.Check If String Is Transformable With Substring Sort Operations <https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/>`_ (Hard)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/1585.Check If String Is Transformable With Substring Sort Operations/solution.py

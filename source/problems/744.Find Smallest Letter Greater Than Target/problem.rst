@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`744.Find Smallest Letter Greater Than Target <https://leetcode.com/problems/find-smallest-letter-greater-than-target/>`_ (Easy)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/744.Find Smallest Letter Greater Than Target/solution.py

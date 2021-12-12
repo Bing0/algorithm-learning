@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`903.Valid Permutations for DI Sequence <https://leetcode.com/problems/valid-permutations-for-di-sequence/>`_ (Hard)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/903.Valid Permutations for DI Sequence/solution.py

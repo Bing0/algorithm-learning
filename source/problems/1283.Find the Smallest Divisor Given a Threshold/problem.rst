@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`1283.Find the Smallest Divisor Given a Threshold <https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/>`_ (Medium)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/1283.Find the Smallest Divisor Given a Threshold/solution.py

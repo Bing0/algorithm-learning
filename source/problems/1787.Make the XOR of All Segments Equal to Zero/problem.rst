@@ -1,0 +1,6 @@
+
+------------------------------------------------------------------------------------------------------------------------------------
+`1787.Make the XOR of All Segments Equal to Zero <https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/>`_ (Hard)
+------------------------------------------------------------------------------------------------------------------------------------
+
+.. literalinclude:: /problems/1787.Make the XOR of All Segments Equal to Zero/solution.py
