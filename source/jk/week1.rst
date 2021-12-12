@@ -46,7 +46,7 @@ Examples
 
 .. include:: /problems/1.Two Sum/problem.rst
 
-.. include:: /problems/167.Two Sum II - Input array is sorted/problem.rst
+.. include:: /problems/167.Two Sum II - Input Array Is Sorted/problem.rst
 
 .. include:: /problems/15.3Sum/problem.rst
 

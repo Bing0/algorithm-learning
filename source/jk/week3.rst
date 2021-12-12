@@ -34,32 +34,6 @@ Examples
 
 .. include:: /problems/329.Longest Increasing Path in a Matrix/problem.rst
 
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
-.. include:: /problems//problem.rst
-
 ******************************************************************
 Homework
 ******************************************************************
