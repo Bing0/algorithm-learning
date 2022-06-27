@@ -1,0 +1,30 @@
+name: Build and Deploy Algorithm
+on: [ push ]
+jobs:
+  Build-Deply:
+    runs-on: ubuntu-latest
+    environment: RemoteServer
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -U Sphinx
+          pip install furo
+      - name: Build html
+        run: |
+          make html
+      - name: Deploy html
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.IP }}
+          username: ${{ secrets.USER }}
+          password: ${{ secrets.PASS }}
+          port: ${{ secrets.PORT }}
+          source: "build/html/*"
+          target: "/root/alg/"
