@@ -27,4 +27,4 @@ jobs:
           password: ${{ secrets.PASS }}
           port: ${{ secrets.PORT }}
           source: "build/html/*"
-          target: "/root/alg/"
+          target: "/home/wub/alg/"
