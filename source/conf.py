@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Algorithm and Data Structure'
-copyright = '2021, bin.wu'
+copyright = '2023, bin.wu'
 author = 'bin.wu'
 
 # The full version, including alpha/beta/rc tags
